@@ -1,0 +1,304 @@
+{
+	"status":1,
+	"result":[
+			{
+			"title":"订花  /  日常用花",
+			"msg":"鹿鸣为您量身定制 精品花束 & 精品花盒",
+			"list":[
+				{
+					"title":"归园田居",
+					"id":100,
+					"price":"698.00",
+					"img":"../../../static/img/follow/s (1).jpeg"
+				},
+				{
+					"title":"父爱如山",
+					"id":101,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (28).jpeg"
+				},
+				{
+					"title":"紫玉生香",
+					"id":102,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (18).jpeg"
+				},
+				{
+					"title":"海洋之歌",
+					"id":103,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (27).jpeg"
+				},
+				{
+					"title":"我要你快乐",
+					"id":104,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (21).jpeg"
+				},
+				{
+					"title":"美好祝愿",
+					"id":105,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (24).jpeg"
+				},
+				{
+					"title":"高级私人定制",
+					"id":106,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (26).jpeg"
+				},
+				{
+					"title":"锦上添花",
+					"id":107,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (27).jpeg"
+				}
+			]
+        },
+
+			{
+			"title":"订花  /  爱情用花",
+			"msg":"鹿鸣为您量身定制 精品花束 & 精品花盒",
+			"list":[
+				{
+					"title":"归园田居",
+					"id":1,
+					"price":"698.00",
+					"img":"../../../static/img/follow/s.jpeg"
+				},
+				{
+					"title":"父爱如山",
+					"id":2,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (22).jpeg"
+				},
+				{
+					"title":"紫玉生香",
+					"id":2,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (2).jpeg"
+				},
+				{
+					"title":"海洋之歌",
+					"id":2,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (3).jpeg"
+				},
+				{
+					"title":"我要你快乐",
+					"id":2,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (4).jpeg"
+				},
+				{
+					"title":"美好祝愿",
+					"id":2,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (5).jpeg"
+				},
+				{
+					"title":"高级私人定制",
+					"id":2,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (23).jpeg"
+				},
+				{
+					"title":"锦上添花",
+					"id":2,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (25).jpeg"
+				},
+				{
+					"title":"高级私人定制",
+					"id":2,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (30).jpeg"
+				},
+				{
+					"title":"锦上添花",
+					"id":2,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (31).jpeg"
+				}
+			]
+
+        },
+
+        {
+			"title":"订花  /  鲜花盒",
+			"msg":"鹿鸣为您量身定制 精品花束 & 精品花盒",
+			"list":[
+				{
+					"title":"归园田居",
+					"id":1,
+					"price":"698.00",
+					"img":"../../../static/img/follow/s (6).jpeg"
+				},
+				{
+					"title":"父爱如山",
+					"id":2,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (29).jpeg"
+				},
+				{
+					"title":"紫玉生香",
+					"id":2,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (7).jpeg"
+				},
+				{
+					"title":"海洋之歌",
+					"id":2,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (8).jpeg"
+				},
+				{
+					"title":"我要你快乐",
+					"id":2,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (9).jpeg"
+				},
+				{
+					"title":"美好祝愿",
+					"id":2,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (10).jpeg"
+				},
+				{
+					"title":"高级私人定制",
+					"id":2,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (32).jpeg"
+				},
+				{
+					"title":"锦上添花",
+					"id":2,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (33).jpeg"
+				},
+				{
+					"title":"高级私人定制",
+					"id":2,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (34).jpeg"
+				},
+				{
+					"title":"锦上添花",
+					"id":2,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (35).jpeg"
+				}
+			]
+
+        },
+
+        {
+			"title":"订花  /  干花",
+			"msg":"鹿鸣为您量身定制 精品花束 & 精品花盒",
+			"list":[
+				{
+					"title":"归园田居",
+					"id":1,
+					"price":"698.00",
+					"img":"../../../static/img/follow/s (37).jpeg"
+				},
+				{
+					"title":"父爱如山",
+					"id":2,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (39).jpeg"
+				},
+				{
+					"title":"紫玉生香",
+					"id":2,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (38).jpeg"
+				},
+				{
+					"title":"海洋之歌",
+					"id":2,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (40).jpeg"
+				},
+				{
+					"title":"我要你快乐",
+					"id":2,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (41).jpeg"
+				},
+				{
+					"title":"美好祝愿",
+					"id":2,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (42).jpeg"
+				},
+				{
+					"title":"高级私人定制",
+					"id":2,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (43).jpeg"
+				},
+				{
+					"title":"锦上添花",
+					"id":2,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (44).jpeg"
+				},
+				{
+					"title":"高级私人定制",
+					"id":2,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (45).jpeg"
+				},
+				{
+					"title":"锦上添花",
+					"id":2,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (46).jpeg"
+				}
+			]
+        },
+        {
+			"title":"订花  /  永生花",
+			"msg":"鹿鸣为您量身定制 精品花束 & 精品花盒",
+			"list":[
+				{
+					"title":"归园田居",
+					"id":1,
+					"price":"698.00",
+					"img":"../../../static/img/follow/s (11).jpeg"
+				},
+				{
+					"title":"父爱如山",
+					"id":2,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (12).jpeg"
+				},
+				{
+					"title":"紫玉生香",
+					"id":2,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (13).jpeg"
+				},
+				{
+					"title":"海洋之歌",
+					"id":2,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (15).jpeg"
+				},
+				{
+					"title":"我要你快乐",
+					"id":2,
+					"price":"328.00",
+					"img":"../../../static/img/follow/s (16).jpeg"
+				}
+			]
+        }
+
+
+			
+		]
+
+
+
+}
