@@ -1,0 +1,43 @@
+[
+	{
+	    "id":0,
+	    "img":"../../../static/img/0/s (1).jpeg",
+		"title":"鹿鸣基础花艺师班",
+		"titleMsg":"每月初开班、月底结束",
+		"price":"9800",
+		"titleTip":"现在接受职业花艺师班",
+		"wechat":"报名中咨询请加微信：luminghf",
+		"contentTitle":"鹿鸣新情景式花艺教室长期招生中......",
+		"contentMsg":"20天，零基础晋身花艺师！鹿鸣2、3月两个班、4月1班已满，4月2班报名中！",
+		"contentWc":"请加微信luminghf咨询。",
+		"img01":"../../../static/img/0/s (2).jpeg",
+		"img02":"../../../static/img/0/s (3).jpeg",
+		"img03":"../../../static/img/0/s (9).jpeg",
+		"img04":"../../../static/img/0/s (12).jpeg",
+		"img05":"../../../static/img/0/s (6).jpeg",
+		"img06":"../../../static/img/0/s (8).jpeg",
+		"img07":"../../../static/img/0/s (16).jpeg",
+		"img08":"../../../static/img/0/s (7).jpeg",
+		"img09":"../../../static/img/0/s (9).jpeg"
+	},{
+		"id":1,
+	    "img":"../../../static/img/1/s (1).jpeg",
+		"title":"咖啡馆花艺沙龙",
+		"titleMsg":"上课时间：每周六（下午）",
+		"price":"3008",
+		"titleTip":"现在接受职业花艺师班",
+		"wechat":"报名中咨询请加微信：luminghf",
+		"contentTitle":"鹿鸣&咖啡馆系列花艺沙龙",
+		"contentMsg":"鹿鸣与Ncafe共同推出周末花艺沙龙，一节课就是一束花的价格，每人308元。含30元咖啡馆消费，每人送一份鹿鸣玫瑰花茶试饮装。上完课花可以带回家哦，每期招10到12位成员，按报名先后顺序确定，超数的成员自动延至下一期。",
+		"contentWc":"请加微信luminghf咨询。",
+		"img01":"../../../static/img/1/s (2).jpeg",
+		"img02":"../../../static/img/1/s (3).jpeg",
+		"img03":"../../../static/img/1/s (9).jpeg",
+		"img04":"../../../static/img/1/s (12).jpeg",
+		"img05":"../../../static/img/1/s (5).jpeg",
+		"img06":"../../../static/img/1/s (8).jpeg",
+		"img07":"../../../static/img/1/s (4).jpeg",
+		"img08":"../../../static/img/1/s (17).jpeg",
+		"img09":"../../../static/img/1/s (9).jpeg"
+	}
+]

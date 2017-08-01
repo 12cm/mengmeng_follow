@@ -1,0 +1,23 @@
+{
+	"status":1,
+	"result":{
+		"title":"玫瑰花茶  /  让时光再慢一点",
+		"list":[
+			{
+				"title":"鹿鸣玫瑰花茶单盒装",
+				"price":"139.00",
+				"img":"../../../static/img/product/s.jpeg"
+			},
+			{
+				"title":"鹿鸣玫瑰花茶双盒闺蜜",
+				"price":"278.00",
+				"img":"../../../static/img/product/s (2).jpeg"
+			},
+			{
+				"title":"涂色手绘插画 / 张",
+				"price":"28.00",
+				"img":"../../../static/img/product/s (1).jpeg"
+			}
+		]
+	}
+}
