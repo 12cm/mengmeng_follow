@@ -8,7 +8,7 @@ module.exports = {
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
     //assetsPublicPath: '/mengmeng_follow/dist/',
-    assetsPublicPath: '/12cm/mengmeng_follow/tree/master/dist/',
+    assetsPublicPath: 'http://htmlpreview.github.io/?https://github.com/12cm/mengmeng_follow/blob/master/dist/',
     productionSourceMap: true,
     // Gzip off by default as many popular static hosts such as
     // Surge or Netlify already gzip all static assets for you.
