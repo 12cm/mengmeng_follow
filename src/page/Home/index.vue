@@ -210,7 +210,7 @@ export default {
       fetchData(){
         var _this=this;
 
-        this.$http.get('.../../../.../../../.../../../static/data/user.data').then(function(res){
+        this.$http.get('../../../static/data/user.data').then(function(res){
             _this.user=res.data.result;
         }).catch(function(err){
           console.log(err);
