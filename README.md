@@ -7,7 +7,7 @@ A Vue.js project
 
 <a href="https://12cm.github.io/mengmeng_follow/dist/index.html" target="_blank">在线演示地址 (建议在手机或F12手机模式下浏览)</a>
 
-<p>声明：ui设计来自http://lumingfang.com/pages/training，仅为个人开发学习使用，并无用于任何商业用途，如有侵犯到，可联系本人（QQ:670252095），及时删除, 本项目所有内容及代码仅供私下学习参考, 不得作为其他用途</p>
+<p>声明：ui设计来自<a href="http://lumingfang.com/pages/training">鹿鸣花坊</a>（非打广告之嫌） ，仅为个人开发学习使用，并无用于任何商业用途，如有侵犯到，可联系本人（QQ:670252095），及时删除, 本项目所有内容及代码仅供私下学习参考, 不得作为其他用途</p>
 
 ## Build Setup
 
