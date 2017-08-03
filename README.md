@@ -14,17 +14,17 @@ A Vue.js project
 
 
 <div>
-	<p>界面预览：</p>
+	<p>## 界面预览：</p>
 	<div>
-		<img src="./static/readme_img/1.png" style="width: 360px;display: inline-block;">
-		<img src="./static/readme_img/2.png" style="width: 360px;display: inline-block;">
-		<img src="./static/readme_img/3.png" style="width: 360px;display: inline-block;">
-		<img src="./static/readme_img/4.png" style="width: 360px;display: inline-block;">
-		<img src="./static/readme_img/5.png" style="width: 360px;display: inline-block;">
-		<img src="./static/readme_img/6.png" style="width: 360px;display: inline-block;">
-		<img src="./static/readme_img/7.png" style="width: 360px;display: inline-block;">
-		<img src="./static/readme_img/8.png" style="width: 360px;display: inline-block;">
-		<img src="./static/readme_img/9.png" style="width: 360px;display: inline-block;">
+		<img src="./static/readme_img/1.png" style="width: 325px;display: inline-block;">
+		<img src="./static/readme_img/2.png" style="width: 325px;display: inline-block;">
+		<img src="./static/readme_img/3.png" style="width: 325px;display: inline-block;">
+		<img src="./static/readme_img/4.png" style="width: 325px;display: inline-block;">
+		<img src="./static/readme_img/5.png" style="width: 325px;display: inline-block;">
+		<img src="./static/readme_img/6.png" style="width: 325px;display: inline-block;">
+		<img src="./static/readme_img/7.png" style="width: 325px;display: inline-block;">
+		<img src="./static/readme_img/8.png" style="width: 325px;display: inline-block;">
+		<img src="./static/readme_img/9.png" style="width: 325px;display: inline-block;">
 	</div>
 </div>
 
