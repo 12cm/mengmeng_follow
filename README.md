@@ -12,6 +12,22 @@ A Vue.js project
 
 <p>本项目为vue2.0的上手项目，还未完善，仅有订花页面完成功能，进入订花，点击选择欲购的花进入之后可加入购物车，可进行购物，主要功能块就是购物车</p>
 
+
+<div>
+	<p>界面预览：</p>
+	<div>
+		<img src="./static/readme_img/1.png" style="width: 360px;display: inline-block;">
+		<img src="./static/readme_img/2.png" style="width: 360px;display: inline-block;">
+		<img src="./static/readme_img/3.png" style="width: 360px;display: inline-block;">
+		<img src="./static/readme_img/4.png" style="width: 360px;display: inline-block;">
+		<img src="./static/readme_img/5.png" style="width: 360px;display: inline-block;">
+		<img src="./static/readme_img/6.png" style="width: 360px;display: inline-block;">
+		<img src="./static/readme_img/7.png" style="width: 360px;display: inline-block;">
+		<img src="./static/readme_img/8.png" style="width: 360px;display: inline-block;">
+		<img src="./static/readme_img/9.png" style="width: 360px;display: inline-block;">
+	</div>
+</div>
+
 ## Build Setup
 
 
