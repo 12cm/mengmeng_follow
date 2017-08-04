@@ -16,11 +16,7 @@ const toPay       = (resolve) => {import('@/page/toPay/toPay.vue').then((module)
 
 Vue.use(Router)
 
-export default new Router({
-  mode: 'history', //切换路径模式，变成history模式
-  //base: '/mengmeng_follow/dist/',   //npm run dev 时必须注释掉，不然路径会出错
-  scrollBehavior: () => ({ y: 0 }), // 滚动条滚动的行为，不加这个默认就会记忆原来滚动条的位置
-  routes: [
+const routes = [
     { path: '/page/Login/login', component: login },             //登录
     { path: '/page/Login/register', component: register },       //注册
     { path: '/page/Login/forgetPass', component: forgetPass },   //忘记密码
@@ -35,5 +31,13 @@ export default new Router({
     { path: '/page/toPay/toPay', component: toPay },             //购物车页面
     { path: '/', redirect: '/page/Home/index' },
     { path: '*', redirect: '/page/Home/index' }
-  ]
-})
+]
+
+const router = new Router({
+    mode: 'history', //切换路径模式，变成history模式
+    //base: '/mengmeng_follow/dist/',   //npm run dev 时必须注释掉，不然路径会出错
+    scrollBehavior: () => ({ y: 0 }), // 滚动条滚动的行为，不加这个默认就会记忆原来滚动条的位置
+    routes
+});
+
+export default router;
